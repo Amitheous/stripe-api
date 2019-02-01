@@ -4,6 +4,7 @@
   "description": "An application using the stripe api",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "dev": "nodemon index.js"
   },
   "author": "Matthew Kartchner (mkartch12@gmail.com)",
